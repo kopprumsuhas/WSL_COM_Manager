@@ -17,5 +17,5 @@ WSL COM Manager Setup.exe
 MIT License
 
 Author: Suhas KR  
-Email: kr.suhas1989@gmail.com
+Email: kopprumsuhas@gmail.com
 
