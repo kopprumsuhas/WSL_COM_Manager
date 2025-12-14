@@ -259,7 +259,7 @@ help_frame = tk.Frame(root, bg="#ffffff")
 help_frame.pack(fill="x", padx=12, pady=(0,8))
 help_btn = tk.Button(help_frame, text="❓ Help", command=lambda: show_help(), bg="#f5f5f5")
 help_btn.pack(side="left")
-footer = tk.Label(help_frame, text=f"© 2025 Suhas KR — Contact: kr.suhas1989@gmail.com", bg="#ffffff", font=("Segoe UI", 8))
+footer = tk.Label(help_frame, text=f"© 2025 Suhas KR — Contact: kopprumsuhas@gmail.com", bg="#ffffff", font=("Segoe UI", 8))
 footer.pack(side="right")
 
 # ---------- Status helper ----------
